@@ -6,3 +6,6 @@
 
 [file_servers]
 192.168.253.128
+
+[workstations]
+192.168.253.129
