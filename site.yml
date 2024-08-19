@@ -33,7 +33,7 @@
    - name: copy default html file
      tags: new,siteupload,apache,apache2
      copy:
-       src: defualt_site.html
+       src: default_site.html
        dest: /var/www/html/index.html
        owner: root
        group: root
